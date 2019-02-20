@@ -1,0 +1,191 @@
+--- 
+layout: landing 
+---
+{% assign latest_landing = site.landings | last %}
+<!-- Banner -->
+<section id="banner">
+	<div class="inner">	
+		<div class="title">
+			<img src="images/logos/bhlogolightnotx.png" alt="" />
+			<h2>
+				{{ site.title }}
+			</h2>
+		</div>
+		<p>PARIS 2019 November 18th - 22th</p>
+		<h3><a href="https://twitter.com/hashtag/bh2018paris">#bh2018paris</a></h3>
+		<div class="logos-strip">
+			<ul class="logos major">
+				<li>
+					<div class="elixir-logo">
+						<span class="label">Lorem</span>
+					</div>
+				</li>
+				<li>
+					<div class="elixir-logo-france">
+						<span class="label">Lorem</span>
+					</div>
+				</li>
+				<li>
+					<div class="nbdc-logo">
+						<span class="label">Lorem</span>
+					</div>
+				</li>
+				<li>
+					<div class="dbcls-logo">
+						<span class="label">Lorem</span>
+					</div>
+				</li>
+				<li>
+					<div class="cost-logo">
+						<span class="label">Lorem</span>
+					</div>
+				</li>
+				<li>
+					<div class="pistoia-logo">
+						<span class="label">Lorem</span>
+					</div>
+				</li>					
+			</ul>
+		</div>
+		<ul class="actions">
+			<li>
+				<a href="/registration" class="button special">Register</a>
+			</li>
+		</ul>
+	</div>
+	<a href="#landing-background" class="more scrolly">Learn More</a>
+</section>
+
+<!-- One -->
+<section id="landing-background" class="wrapper style3 special">
+	<div class="inner">
+		<header class="major">
+			<h2>Background</h2>
+			<p>{{ latest_landing.background | markdownify }}</p>
+		</header>
+	</div>
+</section>
+
+<!-- Two -->
+<section id="landing-scope" class="wrapper alt style2">
+	<section class="spotlight">
+		<div class="image">
+			<img src="images/gene_mark.jpg" alt="" />
+		</div>
+		<div class="content">
+			<h2>Scope</h2>
+			<p>{{ latest_landing.scope | markdownify }}</p>				
+		</div>
+	</section>
+	<section id="landing-goal" class="spotlight">
+		<div class="image">
+			<img src="images/hacking.jpg" alt="" />
+		</div>
+		<div class="content">
+			<h2>Goals</h2>
+			<ul>
+				<li>Advance the development of an open-source infrastructure for data integration to accelerate scientific innovation focusing 
+					on technology implementations of FAIR, identifiers, metadata standards, ontologies and metadata catalogues that support the 
+					operations across <a href="https://www.elixir-europe.org/platforms" target="_blank">ELIXIR Technical Platforms</a> (Compute, Data, Interoperability, Tools, and Training)</li>				
+				<li>Engage the technical people in the bioinformatics community inside and outside ELIXIR to work together on topics of common
+					interest aligned to ELIXIR activities</li>
+				<li>Strengthen the interactions with ELIXIR Platforms and Communities to establish and reinforce collaborations through hands-on
+					programming activities organised at the event.</li>
+			</ul>
+		</div>
+	</section>
+	<section id="landing-funding" class="spotlight">
+		<div class="image">
+			<img src="images/venue.jpg" alt="" />
+		</div>
+		<div class="content">
+			<h2>Expenses and funding</h2>
+			<p>Participants are responsible for their own transportation and accommodation. Registration to the event is free but participants
+				are expected to 
+				cover travel, accommodation and meals during the time of the meeting. The venue (Chateauform Les Berges
+				de Seine) of this event will be informed of your participation as soon as you complete the online registration. Participants will be contacted by the venue to complete their hotel reservation at this venue.</p>
+			<p>There will be a minimum of fifteen travel rewards for the invited applicants. The travel rewards will be offered on a
+				case-by-case basis based on the application’s relevance to ELIXIR’s technical activities and strategy.</p>
+		</div>
+	</section>
+	<section id="landing-benefit" class="spotlight">
+		<div class="image">
+			<img src="images/team-building.jpg" alt="" />
+		</div>
+		<div class="content">
+			<h2>Benefits</h2>
+			<h4>New developments</h4>
+			<ul>
+				<li>Prototypes, proof-of-concepts  or drafts that can evolve later and be integrated into production (or could be identified as something that is better dismissed at that time)</li>
+			</ul>
+			<h4>Existing developments and resources</h4>
+			<ul>
+				<li>Testing new versions</li>
+				<li>Gathering information on possible new features</li>
+				<li>Reaching new users and improving awareness</li>
+			</ul>
+			<h4>Personal and community building</h4>
+			<ul>
+				<li>Collaborative learning emerged from discussions with peers</li>
+				<li>Sharing interests that could bring people to organise or grow communities</li>
+			</ul>
+		</div>
+	</section>	
+</section>
+
+<!-- Three -->
+<section id="landing-processprop" class="wrapper style3 special">
+	<div class="inner">
+		<header class="major">
+			<h2>Hacking projects</h2>
+			<p>29 hacking projects have been preselected aiming to prepare well in advance productive hacking sessions. Please feel free to browse the projects and contact the representatives if you want to contribute or find out more about any of the hacking projects.</p>
+		</header>
+		<ul class="features">
+			<li>
+				<h3><i class="fa fa-hourglass-start"></i> Call for proposals</h3>
+				<p>Though the call for hacking project proposals is close and preselected hacking projects will have priority, the biohackathon welcomes new ideas and it is open to more project proposals. If you would still like to propose a project please contact <a href="mailto:bh2018paris@elixir-europe.org">bh2018paris@elixir-europe.org</a>.</p>
+				<p>The first call for proposals was closed on May 23 and 18 proposals were accepted. The second call for proposal was closed in July 12 and 11 proposal were accepted.</p>
+				<p><i class="fas fa-exclamation-circle"></i> We aim to support and promote accepted proposals but we welcome new ideas.</p>
+			</li>
+			<li>
+				<h3><i class="fa fa-code"></i> List of hacking projects</h3>
+				<p>A full list for the selected hacking projects can be found on the following link </p>
+				<a href="/projects" class="button fit special">Hacking projects</a>
+				<p>The BioHackathon Schedule can be found here </p>
+				<a href="/programme" class="button fit special">Programme</a>
+				
+			</li>
+		</ul>
+		<!-- <div class="alert alert-success" role="alert">
+			<i class="fas fa-exclamation-circle"></i>  Apply for <a href="https://www.elixir-europe.org/platforms/interoperability/rfp-bioschemas" class="alert-link">Bioschemas Travel Grant Staff and Staff Exchange</a>.
+		</div> -->
+	</div>
+</section>
+<section id="landing-venue" class="wrapper alt style2">
+	<section class="spotlight">
+		<div class="google-maps">
+			<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d11589.010802962744!2d2.547620401353242!3d48.53714440328873!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xbf1eeca4d555cc06!2sCh%C3%A2teauform&#39;+Les+Berges+de+Seine!5e0!3m2!1sen!2suk!4v1524233589137" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+		</div>
+		<div class="content">
+			<h2>Venue</h2>
+			<p><a href="https://www.chateauform.com/fr/maison/les-berges-de-seine">Campus des Berges de Seine (South Paris)</a>
+				<br /> 1 Route de Beaulieu, 77240 Seine-Port, France</p>
+			<a href="/chaletdesc" class="button small fit">Chalet</a>
+		</div>
+	</section>
+</section>
+<!-- CTA -->
+<section id="cta" class="wrapper style4">
+	<div class="inner">
+		<header>
+			<h2>Registration (Now closed)</h2>
+			<p>The capacity of the event is full. The registration is closed. If you want to be on reserve list, please contact 
+					<a href="mailto:dana.cernoskova@elixir-europe.org">dana.cernoskova@elixir-europe.org</a>.</p>
+		</header>
+		<ul class="actions vertical">
+			<li>
+				<a href="https://github.com/elixir-europe/BioHackathon" class="button fit">BH repo</a>
+			</li>
+		</ul>
+	</div>
+</section>

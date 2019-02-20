@@ -1,0 +1,9 @@
+---
+layout: page
+title: Programme
+---
+{% assign latest_programme = site.programmes | last %}
+<h2>{{latest_programme.title}}</h2>
+<div class="table-wrapper">
+{{latest_programme.content}}
+</div>
