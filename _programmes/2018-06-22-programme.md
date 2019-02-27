@@ -4,7 +4,7 @@ title: Programme
 author: Ricardo
 ---
 
-<div id="programme" >
+<div id="programme">
     <div class="row">
         <div class="col-md-12 day">
             <h3>Symposium - Nov 12</h3>
@@ -79,8 +79,7 @@ author: Ricardo
                             </a>
                         </td>
                         <td class="speaker">Jun-ichi Onami</td>
-                    </tr>                
-    		
+                    </tr>
                     <tr class="schedule-break-row">
                         <td class="time">14:20 - 14:50</td><td class="event">COFFEE BREAK</td><td></td>
                     </tr>                               
@@ -317,11 +316,9 @@ author: Ricardo
                         <td class="event"><a href="https://github.com/elixir-europe/BioHackathon/blob/master/_reports/bh2018paris-Collaboration-of-ELIXIR-Japan-Biohackathons.pdf">Japanese Biohackathon Update</a></td>
                         <td class="speaker">Toshiaki Katayama</td>
                     </tr>
-                    
                     <tr class="schedule-break-row">
                         <td class="time">19:10 - 19:30</td><td class="event">BREAK</td><td></td>
-                    </tr>        
-
+                    </tr>
                     <tr>
                         <td class="time">19:30 - 22:00</td>
                         <td class="event">Dinner</td>
@@ -528,4 +525,3 @@ author: Ricardo
         </div>
     </div>
 </div>
-

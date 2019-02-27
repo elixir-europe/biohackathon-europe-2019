@@ -7,30 +7,26 @@ author: Ricardo
 
 **NAME**|**INSTITUTE**|**Responsibility**
 :-----|:-----:|-----:
-Victoria Dominguez Del Angel|ELIXIR-FR/[IFB](https://www.france-bioinformatique.fr/ "IFB")|Local organiser/Social activities coordinator/Collocated meetings coordinator
-Rafa C Jimenez|ELIXIR Hub|Programme lead
-Toshiaki Katayama|DBCLS|Advisor/Representative of the Japanese Biohackathon organising committee
-Leyla J Garcia|EMBL-EBI|Advisor/Selection of hacking topics coordinator
-Simon Jupp|EMBL-EBI|Advisor
-Sirarat Sarntivijai|ELIXIR Hub|Advisor/Selection of hacking topics coordinator
-Carole Goble|"The University of Manchester"|Advisor
-Chris Evelo|Maastricht University|Advisor
-Marc Hanauer|INSERM|Advisor
-Denis Thieffry|The École normale supérieure|Advisor
-Jacques van Helden|Aix-Marseille Université|Advisor
-Claudine Médigue|Elixir-FR/[IFB](https://www.france-bioinformatique.fr/ "IFB")|Advisor
-Benno Schwikowsky|Institut Pasteur|Advisor
-David Salgado|Aix-Marseille Université|Advisor/Social activities coordinator
+| Jen Harrow                 | ELIXIR-HUB  | **Chair**  | 
+| Leyla Garcia               | ELIXIR-HUB  | **Vice chair** | 
+| Dana Cernoskova            | Scientifika | Organiser  | 
+| Kathi Lauer                | ELIXIR-HUB  | Organiser  | 
+| Sirarat Sarntivijai        | ELIXIR-HUB  | Organiser  | 
+| Bjoern Gruening            | ELIXIR-DE   | Advisor    | 
+| Susheel Varma              | ELIXIR-EBI  | Advisor    | 
+| Manuel Bernal Llinares     | ELIXIR-EBI  | Advisor    | 
+| Ricardo Arcila             | ELIXIR-EBI  | Advisor    | 
+| Salvador Capella           | ELIXIR-ES   | Advisor    | 
+| Victoria Dominguez         | ELIXIR-FR   | Advisor    | 
+| David Salgado              | ELIXIR-FR   | Advisor    | 
+| Dietlind Gerloff           | ELIXIR-LU   | Advisor    | 
+| Venkata Satagopam (TeC)    | ELIXIR-LU   | Advisor    | 
+| Ricardo de Miranda Azevedo | ELIXIR-NL   | Advisor    | 
+| Carole Goble               | ELIXIR-UK   | Advisor    | 
+| Rafael Jiminez             | External    | Advisor    | 
+| Toshiaki Katayama          | External    | Advisor    | 
+| Daniel Faria               | ELIXIR-PT   | Advisor    | 
+| Giacomo Tartari            | ELIXIR-IT   | Advisor    | 
+| Vincenza Colonna           | ELIXIR-IT   | Advisor    | 
 
-## Logistics
-
-**NAME**|**INSTITUTE**|**Responsabilities**
-:-----|:-----:|-----:
-Dana Cernoskova|ELIXIR Hub|Administration lead/Logistics and registration/Coordination of Social activities
-Kelly Bannett|EMBL EBI|Purchasing
-Delphine Boisard|Chateuform|Venue
-Victoria Dominguez Del Angel|Elixir-FR/[IFB](https://www.france-bioinformatique.fr/ "IFB")|Local organiser
-Toshiaki Katayama|DBCLS|Advisor
-Maxine|Res2000|Venue
-Ricardo Arcila|ELIXIR Hub|Website
 
