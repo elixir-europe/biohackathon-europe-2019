@@ -1345,8 +1345,11 @@ body.is-menu-visible {
 	width: 100%;
 	z-index: _misc(z-index-base);
 	.logo {
-		margin: 1px 0 0 2em;
-		height: 90%;		
+		a {
+			border-bottom: none;
+		}
+		margin: 3px 0 0 2em;
+		height: 85%;		
 		img {
 			width: auto;
 			height: 100%;
