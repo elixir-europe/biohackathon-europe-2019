@@ -12,10 +12,10 @@ author: Ricardo
 | Dana Cernoskova            | Scientifika | Organiser  | 
 | Kathi Lauer                | ELIXIR-HUB  | Organiser  | 
 | Sirarat Sarntivijai        | ELIXIR-HUB  | Organiser  | 
+| Ricardo Arcila             | ELIXIR-EBI  | Organiser  | 
 | Bjoern Gruening            | ELIXIR-DE   | Advisor    | 
 | Susheel Varma              | ELIXIR-EBI  | Advisor    | 
 | Manuel Bernal Llinares     | ELIXIR-EBI  | Advisor    | 
-| Ricardo Arcila             | ELIXIR-EBI  | Advisor    | 
 | Salvador Capella           | ELIXIR-ES   | Advisor    | 
 | Victoria Dominguez         | ELIXIR-FR   | Advisor    | 
 | David Salgado              | ELIXIR-FR   | Advisor    | 

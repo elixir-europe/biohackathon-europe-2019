@@ -882,7 +882,7 @@ button,
 	list-style: none;
 	padding: 0;
 	width: 100%;
-	li {
+	li.feat {
 		@include padding(4em,
 		4em,
 		(0, 0, 0, 2em));
@@ -1492,6 +1492,7 @@ body.is-menu-visible {
 
 		img {
 			max-width: 35%;
+			padding: 1em;
 		}			
 	}
 	p {

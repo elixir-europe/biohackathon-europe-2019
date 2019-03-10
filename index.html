@@ -1,10 +1,10 @@
---- 
-layout: landing 
+---
+layout: landing
 ---
 {% assign latest_landing = site.landings | last %}
 <!-- Banner -->
 <section id="banner">
-	<div class="inner">	
+	<div class="inner">
 		<div class="title">
 			<a href="{{ site.baseurl }}/index.html"><img src="images/logos/bhlogolightnotx.png" alt="biohackathon logo" /></a>
 			<h2>
@@ -50,7 +50,7 @@ layout: landing
 		<ul class="actions">
 			<li>
 				<!-- <a href="{{ site.baseurl }}/registration" class="button special">Register</a> -->
-				<p>Registration opening soon!</p>
+				<p>Registration will be open on May 11th</p>
 			</li>
 		</ul>
 	</div>
@@ -62,7 +62,16 @@ layout: landing
 	<div class="inner">
 		<header class="major">
 			<h2>Background</h2>
-			<p>{{ latest_landing.background | markdownify }}</p>		
+			<div class="row">
+				<div class="10u 12u$(medium)">
+					<p>{{ latest_landing.background | markdownify }}</p>
+				</div>
+				<div class="2u 12u$(medium)">
+					<div class="image fit">
+						<img src="images/logos/elixir_logo_white.png" alt="" />
+					</div>
+				</div>				
+			</div>
 		</header>
 	</div>
 </section>
@@ -75,7 +84,7 @@ layout: landing
 		</div>
 		<div class="content">
 			<h2>Scope</h2>
-			<p>{{ latest_landing.scope | markdownify }}</p>				
+			<p>{{ latest_landing.scope | markdownify }}</p>
 		</div>
 	</section>
 	<section id="landing-goal" class="spotlight">
@@ -85,12 +94,17 @@ layout: landing
 		<div class="content">
 			<h2>Goals</h2>
 			<ul>
-				<li>Advance the development of an open-source infrastructure for data integration to accelerate scientific innovation focusing 
-					on technology implementations of FAIR, identifiers, metadata standards, ontologies and metadata catalogues that support the 
-					operations across <a href="https://www.elixir-europe.org/platforms" target="_blank">ELIXIR Technical Platforms</a> (Compute, Data, Interoperability, Tools, and Training)</li>				
-				<li>Engage the technical people in the bioinformatics community inside and outside ELIXIR to work together on topics of common
+				<li>Advance the development of an open-source infrastructure for data integration to accelerate scientific
+					innovation focusing
+					on technology implementations of FAIR, identifiers, metadata standards, ontologies and metadata catalogues that
+					support the
+					operations across <a href="https://www.elixir-europe.org/platforms" target="_blank">ELIXIR Technical Platforms</a>
+					(Compute, Data, Interoperability, Tools, and Training)</li>
+				<li>Engage the technical people in the bioinformatics community inside and outside ELIXIR to work together on
+					topics of common
 					interest aligned to ELIXIR activities</li>
-				<li>Strengthen the interactions with ELIXIR Platforms and Communities to establish and reinforce collaborations through hands-on
+				<li>Strengthen the interactions with ELIXIR Platforms and Communities to establish and reinforce collaborations
+					through hands-on
 					programming activities organised at the event.</li>
 			</ul>
 		</div>
@@ -101,12 +115,15 @@ layout: landing
 		</div>
 		<div class="content">
 			<h2>Expenses and funding</h2>
-			<p>Participants are responsible for their own transportation and accommodation. Registration to the event is free but participants
-				are expected to 
-				cover travel, accommodation and meals during the time of the meeting. The venue (Chateauform Les Berges
-				de Seine) of this event will be informed of your participation as soon as you complete the online registration. Participants will be contacted by the venue to complete their hotel reservation at this venue.</p>
-			<p>There will be a minimum of fifteen travel rewards for the invited applicants. The travel rewards will be offered on a
-				case-by-case basis based on the application’s relevance to ELIXIR’s technical activities and strategy.</p>
+			<h4>Travel and accommodation</h4>
+			<p>Registration for the BioHackathon is free and includes all meals and refreshments during the meeting when accommodation is booked at the venue.</p>
+			<h4>Registration will be done in two phases</h4>
+			<ul type="I">
+				<li>Participants nominated to work on selected  projects (link to call for projects) will be invited to register first (approx 50 participants)</li>
+				<li>Registration open to everyone two week later May 11th (max 120 extra participants)</li>
+			</ul>
+			<p>Participants <b>are expected to cover their accommodation and travel unless invited by project leads of selected projects (see selected proposals)</b>. Staying at the venue is highly preferred, since it maximises networking with all participants and gets the most out of the hacking. </p>
+			<a href="{{ site.baseurl }}/venue.html" class="button fit">More information</a>
 		</div>
 	</section>
 	<section id="landing-benefit" class="spotlight">
@@ -117,7 +134,8 @@ layout: landing
 			<h2>Benefits</h2>
 			<h4>New developments</h4>
 			<ul>
-				<li>Prototypes, proof-of-concepts  or drafts that can evolve later and be integrated into production (or could be identified as something that is better dismissed at that time)</li>
+				<li>Prototypes, proof-of-concepts or drafts that can evolve later and be integrated into production (or could be
+					identified as something that is better dismissed at that time)</li>
 			</ul>
 			<h4>Existing developments and resources</h4>
 			<ul>
@@ -129,43 +147,60 @@ layout: landing
 			<ul>
 				<li>Collaborative learning emerged from discussions with peers</li>
 				<li>Sharing interests that could bring people to organise or grow communities</li>
-				<li>Selected hacking topics will be published here once reviewed by the Biohackathon Organising Committee. We are expecting topics to align well with the current interest of life science communities at large. These may include standardised workflows, containerisation, schemas and identifiers, ontology tooling, metadata validation, and training.</li>
 			</ul>
 		</div>
-	</section>	
+	</section>
 </section>
 
 <!-- Three -->
-<section id="landing-topics" class="wrapper style2">
-	<div class="inner">
-		<header class="major">
-			<h2>Topics</h2>
-		</header>
-		<p>
-			Selected hacking topics will be published here once reviewed by the Biohackathon Organising Committee. We are expecting topics to align well with the current interest of life science communities at large. These may include standardised workflows, containerisation, schemas and identifiers, ontology tooling, metadata validation, and training.
-		</p>
-	</div>
-</section>
 <section id="landing-processprop" class="wrapper style3 special">
 	<div class="inner">
 		<header class="major">
-			<h2>Hacking projects</h2>
-			<p>29 hacking projects have been preselected aiming to prepare well in advance productive hacking sessions. Please feel free to browse the projects and contact the representatives if you want to contribute or find out more about any of the hacking projects.</p>
-			<p><i class="fas fa-exclamation-circle"></i> We aim to support and promote accepted proposals but we welcome new ideas.</p>
+			<h2>Hacking Topics</h2>
+			<p>In January, we asked for expression of interest for ELIXIR members to submit project titles so we could plan what
+				potential areas participants were interested in. We now request that full submission are made following “Call for
+				Proposal” directions.</p>
+			<p>Selected hacking topics will be published here once reviewed by the Biohackathon Organising Committee. We are
+				expecting topics to align well with the current interest of life science communities at large. These may include
+				standardised workflows, containerisation, schemas and identifiers, ontology tooling, metadata validation, and
+				training. We encourage submissions of hacking topics from the public and private sector.</p>
 		</header>
 		<ul class="features">
-			<li>
+			<li class="feat">
 				<h3><i class="fas fa-industry"></i> Industry engagement</h3>
-				<p>Companies interested in submitting hacking projects to our ‘Biohackathon 2019 Industry Track’ should contact Kathi Lauer (ELIXIR Industry Officer) for more information <a href="mailto:katharina.lauer@elixir-europe.org">katharina.lauer@elixir-europe.org</a>.</p>
+				<p>Companies interested in submitting hacking projects to our ‘Biohackathon 2019 Industry Track’ should contact
+					Kathi Lauer (ELIXIR Industry Officer) for more information.</p>
+				<a href="mailto:katharina.lauer@elixir-europe.org" class="button fit special">Contact</a>
 			</li>
-			<li>
+			<li class="feat">
 				<h3><i class="fa fa-code"></i> Call for proposals</h3>
-				<p>The call for hacking projects is open from 11th March and will close on  7th April 2019. The project leader will submit through the EasyChair submission 
-					Though the call for hacking project proposals is closed and preselected hacking projects will have priority, the biohackathon welcomes new ideas.</p>
-				<!-- <a href="/projects" class="button fit special">Hacking projects</a> -->
-				<p>The BioHackathon Schedule can be found here </p>
-				<a href="/programme" class="button fit special">Programme</a>
-				
+				<p>The call for hacking projects is open from <b>11th March </b>and will close on <b>7th April</b> 2019. The
+					project leader will submit through the <a href="https://easychair.org/account/signin.cgi?key=85682316.alGgQdkmdzJrRYos">EasyChair
+						submission</a></p>
+
+				<a href="https://easychair.org/account/signin.cgi?key=85682316.alGgQdkmdzJrRYos" class="button fit special">EasyChair
+					submission</a>
+			</li>
+			<li class="feat">
+				<h3>Information required</h3>
+				<ul>
+					<li>Title and description of the project (300 word max)</li>
+					<li>Gathering information on possible new features</li>
+					<li>Project Lead’s contact details</li>
+					<li>Expected outcomes from Biohackathon and beyond</li>
+					<li>Expected Audience: type of participant needed to help with the project</li>
+					<li>Number of days for the hack (NB it is expected that all participants stay for the 4 days even though some projects may be shorter)</li>
+					<li>Is there a specific person (2 max) from Europe you would like to invite that is critical to the success of the project ?(name /institute/email)</li>
+				</ul>
+			</li>
+			<li class="feat">
+				<h3>Selection criteria</h3>
+				<p>The programme organising committee will select the project based on the following criteria</p>
+				<ul>
+					<li>Scientific interest/alignment to ELIXIR platforms/community goals </li>
+					<li>Are outcomes achievable in the timeframe suggested </li>
+					<li>How many nodes/people likely to participate</li>
+				</ul>					
 			</li>
 		</ul>
 	</div>
@@ -173,7 +208,8 @@ layout: landing
 <section id="landing-venue" class="wrapper alt style2">
 	<section class="spotlight">
 		<div class="google-maps">
-			<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d11589.010802962744!2d2.547620401353242!3d48.53714440328873!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xbf1eeca4d555cc06!2sCh%C3%A2teauform&#39;+Les+Berges+de+Seine!5e0!3m2!1sen!2suk!4v1524233589137" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+			<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d11589.010802962744!2d2.547620401353242!3d48.53714440328873!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xbf1eeca4d555cc06!2sCh%C3%A2teauform&#39;+Les+Berges+de+Seine!5e0!3m2!1sen!2suk!4v1524233589137"
+			 width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 		</div>
 		<div class="content">
 			<h2>Venue</h2>
@@ -188,7 +224,7 @@ layout: landing
 	<div class="inner">
 		<header>
 			<h2>Registration</h2>
-			<p>To be opened soon</p>
+			<p>Registration will be open on May 11th</p>
 		</header>
 		<ul class="actions vertical">
 			<li>
