@@ -5,9 +5,6 @@ $baseurl: '{{ site.baseurl }}/images';
 @import 'libs/vars';
 @import 'libs/functions';
 @import 'libs/mixins';
-@import 'chalet-desc';
-@import 'projects';
-@import 'programme';
 // @import 'font-awesome.min.css';
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,600,600italic,800,800italic');
 /*
@@ -20,6 +17,10 @@ $baseurl: '{{ site.baseurl }}/images';
 @include skel-breakpoints(( xlarge: '(max-width: 1680px)', large: '(max-width: 1280px)', medium: '(max-width: 980px)', small: '(max-width: 736px)', xsmall: '(max-width: 480px)'));
 @include skel-layout(( reset: 'full', boxModel: 'border', grid: ( gutters: 1.5em)));
 /* Basic */
+
+@import 'chalet-desc';
+@import 'projects';
+@import 'programme';
 
 @-ms-viewport {
 	width: device-width;
