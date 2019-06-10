@@ -1,0 +1,114 @@
+---
+modified_date: 2019-06-10
+project_list:
+- link: https://github.com/elixir-europe/BioHackathon2019/tree/master/projects/1
+  number: '1'
+  title: Interoperable Workflows for Communities
+- link: https://github.com/elixir-europe/BioHackathon2019/tree/master/projects/2
+  number: '2'
+  title: bio.tools & EDAM drop-in hackathon & discussions
+- link: https://github.com/elixir-europe/BioHackathon2019/tree/master/projects/3
+  number: '3'
+  title: Improve the support of Common Workflow Language in Galaxy
+- link: https://github.com/elixir-europe/BioHackathon2019/tree/master/projects/4
+  number: '4'
+  title: 'Support tools for rapid adoption of Bioschemas through Identifiers.org:
+    automatic resources registration, updates and metadata integration'
+- link: https://github.com/elixir-europe/BioHackathon2019/tree/master/projects/5
+  number: '5'
+  title: Disease and pathway maps for Rare Diseases
+- link: https://github.com/elixir-europe/BioHackathon2019/tree/master/projects/6
+  number: '6'
+  title: Copy Number Variation Beacon
+- link: https://github.com/elixir-europe/BioHackathon2019/tree/master/projects/7
+  number: '7'
+  title: 'Towards seamless Galaxy and InterMine integration: Enhanced region analysis'
+- link: https://github.com/elixir-europe/BioHackathon2019/tree/master/projects/8
+  number: '8'
+  title: Scalable delivery of FAIR training in Life Sciences using Galaxy and the
+    Carpentries training material
+- link: https://github.com/elixir-europe/BioHackathon2019/tree/master/projects/9
+  number: '9'
+  title: Data Management toolkit
+- link: https://github.com/elixir-europe/BioHackathon2019/tree/master/projects/10
+  number: '10'
+  title: Plant Genotyping Metadata Standard Specification Hackathon
+- link: https://github.com/elixir-europe/BioHackathon2019/tree/master/projects/11
+  number: '11'
+  title: Text-mining and semantic web technologies
+- link: https://github.com/elixir-europe/BioHackathon2019/tree/master/projects/12
+  number: '12'
+  title: Knowledge graph for scholarly publications in Bioschemas13
+- link: https://github.com/elixir-europe/BioHackathon2019/tree/master/projects/13
+  number: '13'
+  title: How to setup a local-EGA for Human Data with regulatory constraints?
+- link: https://github.com/elixir-europe/BioHackathon2019/tree/master/projects/14
+  number: '14'
+  title: Development of a visualization library for real-time monitoring of computational
+    workflows15
+- link: https://github.com/elixir-europe/BioHackathon2019/tree/master/projects/15
+  number: '15'
+  title: Implementation of Bioschema for Orphanet and Orphadata
+- link: https://github.com/elixir-europe/BioHackathon2019/tree/master/projects/16
+  number: '16'
+  title: Operationalising the ELIXIR-GA4GH Cloud and AAI Driver Project
+- link: https://github.com/elixir-europe/BioHackathon2019/tree/master/projects/17
+  number: '17'
+  title: Development of a Pulsar toolkit
+- link: https://github.com/elixir-europe/BioHackathon2019/tree/master/projects/18
+  number: '18'
+  title: Implementation and sharing of workflows for personal genomic data on DDBJ's
+    workflow execution system SAPPORO
+- link: https://github.com/elixir-europe/BioHackathon2019/tree/master/projects/19
+  number: '19'
+  title: Updating the Galaksio workflow management interface for Galaxy and migrating
+    it to Vue.js
+- link: https://github.com/elixir-europe/BioHackathon2019/tree/master/projects/20
+  number: '20'
+  title: Improving the interoperability of the core intrinsically disordered protein
+    (IDP) resource
+- link: https://github.com/elixir-europe/BioHackathon2019/tree/master/projects/21
+  number: '21'
+  title: Development of biomedical schema for data exchange for GA4GH and GEM-Japan22
+- link: https://github.com/elixir-europe/BioHackathon2019/tree/master/projects/22
+  number: '22'
+  title: RO Shape Profiles, BrAPI, and Bioschemas Shapes Validation
+- link: https://github.com/elixir-europe/BioHackathon2019/tree/master/projects/23
+  number: '23'
+  title: 'ELIXIR Data Stewardship Wizard: Templating Data Management Plans and integrating
+    Software Management'
+- link: https://github.com/elixir-europe/BioHackathon2019/tree/master/projects/24
+  number: '24'
+  title: 'TogoEx: the integration of gene expression data'
+- link: https://github.com/elixir-europe/BioHackathon2019/tree/master/projects/25
+  number: '25'
+  title: Designing a Software Management Plan as ELIXIR guidelines
+- link: https://github.com/elixir-europe/BioHackathon2019/tree/master/projects/26
+  number: '26'
+  title: Data Ingestion Pipeline for the IDP Community
+- link: https://github.com/elixir-europe/BioHackathon2019/tree/master/projects/27
+  number: '27'
+  title: 'FAIR Identifier Mapping: Building Bridges Between Communities'
+- link: https://github.com/elixir-europe/BioHackathon2019/tree/master/projects/28
+  number: '28'
+  title: Mapping RDF Graphs to Property Graphs towards Practical Applications
+- link: https://github.com/elixir-europe/BioHackathon2019/tree/master/projects/29
+  number: '29'
+  title: Semantic recommendation system for life sciences publications
+- link: https://github.com/elixir-europe/BioHackathon2019/tree/master/projects/30
+  number: '30'
+  title: A graph database of Galaxy tool interoperability
+- link: https://github.com/elixir-europe/BioHackathon2019/tree/master/projects/31
+  number: '31'
+  title: Bioconda and Biocontainers helpdesk
+- link: https://github.com/elixir-europe/BioHackathon2019/tree/master/projects/32
+  number: '32'
+  title: Nightingale
+- link: https://github.com/elixir-europe/BioHackathon2019/tree/master/projects/33
+  number: '33'
+  title: FAIR applications
+- link: https://github.com/elixir-europe/BioHackathon2019/tree/master/projects/34
+  number: '34'
+  title: FAIRifying REDCap Clinical Research Data Collection
+
+---
