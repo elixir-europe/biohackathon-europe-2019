@@ -5,15 +5,19 @@ title: Hacking projects
 <section id="hacking-projects">
     {% assign projectVersions = site.projects | sort: 'modified_date' %}
     {% assign latestProjects = projectVersions.first %}    
-
+    <p>These are the selected hacking projects</p>
     <ul>
         {% for project in latestProjects.project_list %}
         <li>
-            <a href="{{project.link}}"
+            <!-- <a href="{{project.link}}"
                 target="_blank"><strong>{{project.number}}</strong> - {{project.title}}
                 <i class="fab fa-github" aria-hidden="true"></i>
-            </a>
+            </a> -->
+            <strong>{{project.number}}</strong> - {{project.title}}
         </li>
         {% endfor %}
     </ul>
+    <blockquote>
+        A GitHub repository containg more information about the projects will be added soon.
+    </blockquote>    
 </section>
