@@ -9,15 +9,11 @@ title: Hacking projects
     <ul>
         {% for project in latestProjects.project_list %}
         <li>
-            <!-- <a href="{{project.link}}"
+            <a href="{{project.link}}"
                 target="_blank"><strong>{{project.number}}</strong> - {{project.title}}
                 <i class="fab fa-github" aria-hidden="true"></i>
-            </a> -->
-            <strong>{{project.number}}</strong> - {{project.title}}
+            </a>
         </li>
         {% endfor %}
     </ul>
-    <blockquote>
-        A GitHub repository containg more information about the projects will be added soon.
-    </blockquote>    
 </section>
