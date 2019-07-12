@@ -426,7 +426,7 @@ project_list:
     title: Knowledge graph for scholarly publications in Bioschemas
   number: '12'
   submitter: "Leyla Jael Garc\xEDa Castro"
-  title: Knowledge graph for scholarly publications in Bioschemas13
+  title: Knowledge graph for scholarly publications in Bioschemas
 - link: https://github.com/elixir-europe/BioHackathon-projects-2019/tree/master/projects/13
   merged_from:
   - authors: Victoria Dominguez Del Angel
@@ -473,7 +473,7 @@ project_list:
   number: '14'
   submitter: Argyrios Alexandros Gardelakos
   title: Development of a visualization library for real-time monitoring of computational
-    workflows15
+    workflows
 - link: https://github.com/elixir-europe/BioHackathon-projects-2019/tree/master/projects/15
   merged_from:
   - authors: Marc Hanauer
@@ -670,7 +670,7 @@ project_list:
     title: Development of biomedical schema for data exchange for GA4GH and GEM-Japan
   number: '21'
   submitter: Mayumi Kamada
-  title: Development of biomedical schema for data exchange for GA4GH and GEM-Japan22
+  title: Development of biomedical schema for data exchange for GA4GH and GEM-Japan
 - link: https://github.com/elixir-europe/BioHackathon-projects-2019/tree/master/projects/22
   merged_from:
   - authors: Alasdair Gray
