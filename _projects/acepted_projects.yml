@@ -91,7 +91,7 @@ project_list:
     title: Improve the support of Common Workflow Language in Galaxy
   number: '3'
   submitter: Herve Menager
-  title: Improve the support of Common Workflow Language in Galaxy
+  title: Improve the support of Common Workflow Language standars in Galaxy
 - link: https://github.com/elixir-europe/BioHackathon-projects-2019/tree/master/projects/4
   merged_from:
   - authors: Manuel Bernal Llinares
