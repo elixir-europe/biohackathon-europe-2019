@@ -19,32 +19,6 @@ project_list:
     research_area_alignment: "ELIXIR Tools Platform\n ELIXIR Interoperability Platform\n\
       \ ELIXIR Galaxy Community\n EOSC-Life\n GA4GH\n All ELIXIR Communities"
     title: Interoperable Workflows for Communities
-  - authors: Rob Hooft
-    expected_audience: We expect to work with any ELIXIR-related data stewards and
-      experts who have input on the knowledge model and/or the templates for funders,
-      or who would simply like to learn how to add expertise to the system.
-    expected_outcomes: "* Templates for Science Europe and H2020 used by Data Stewardship\
-      \ Wizard to generate DMPs.\n * New expertise in the Wizard knowledge model\n\
-      \ * New ideas for future integrations based on input from participants\n * Extending\
-      \ Knowledge Model with Software Management relevant topics"
-    hacking_topic: Funders templates for Data Management Plans & Adding Software Management
-      Topics to the Data Stewardship Wizard
-    leads: "Marek Such\xE1nek;\n Rob Hooft;"
-    nominated_participant: It would be useful to have a person from one of the major
-      funders or funding platforms, e.g. Marie Timmermann from Science Europe may
-      be able to recommend one of her colleagues. They may not stay for other hackathon
-      subjects.
-    number: '2'
-    number_of_expected_hacking_days: '4'
-    research_area_alignment: The Data Stewardship Wizard is proposed as a way of presenting
-      ELIXIR Data Management Resources (databases, tools, etc) to ELIXIR users in
-      the submitted proposal for ELIXIR-Converge. The work proposed here is complementary
-      to the work that will be performed in that project, but it will be possible
-      to use the BioHackathon time also to refer to more ELIXIR services in the Wizard
-      knowledge model, working on the preliminaries for the goals in ELIXIR-Converge
-      (the recently submitted ELIXIR Data Management proposal).
-    title: 'ELIXIR Data Stewardship Wizard: Templating Data Management Plans and integrating
-      Software Management'
   number: '1'
   submitter: Frederik Coppens
   title: Interoperable Workflows for Communities
@@ -91,7 +65,7 @@ project_list:
     title: Improve the support of Common Workflow Language in Galaxy
   number: '3'
   submitter: Herve Menager
-  title: Improve the support of Common Workflow Language standars in Galaxy
+  title: Improve the support of Common Workflow Language standards in Galaxy
 - link: https://github.com/elixir-europe/BioHackathon-projects-2019/tree/master/projects/4
   merged_from:
   - authors: Manuel Bernal Llinares
@@ -315,27 +289,20 @@ project_list:
     Carpentries training material
 - link: https://github.com/elixir-europe/BioHackathon-projects-2019/tree/master/projects/9
   merged_from:
-  - authors: Mateusz Kuzak
-    expected_audience: "Participants: Software developers, Research Software Engineers,\
-      \ Researchers\n Knowledge: GitHub, Data Management Plan, Software Development,\
-      \ Software Engineering Practices"
-    expected_outcomes: The direct outcome of this project is going to be a draft checklist
-      of a Software Management Plan (SMP). This will be further reviewed within the
-      ELIXIR Software Best Practices WG, in conjunction with the involved stakeholders
-      (i.e. from the ELIXIR network, relevant Journals as well as potential funding
-      agencies such as EC). Mid-term goal of the project is to have an established
-      SMP in place, that would be a requirement in at least one network. Moreover,
-      the topics of the Management plan will be also included in the existing training
-      material as extensions, so that targeted training can be provided.
-    hacking_topic: Designing a Software Management Plan as ELIXIR guidelines
-    leads: "Mateusz Kuzak\n Fotis Psomopoulos\n Allegra Via"
-    nominated_participant: "Dimitris Bampalikis\n Neil Chue Hong (Software Sustainability\
-      \ Institute) or other expert from ReSA community"
-    number: '11'
+  - authors: Stuart Owen
+    expected_audience: Software developers, data analysts
+    expected_outcomes: A Data Management toolkit that assembles various existing ELIXIR
+      tools and services and ensures that these services are well connected across
+      ELIXIR Nodes.
+    hacking_topic: Data Management toolkit
+    leads: "Stuart Owen\n Frederik Coppens"
+    nominated_participant: "Inge Jonassen (Data Management)\n Niall Beard (Bioschema's,\
+      \ Development)\n Cyril Pommier (Usecases, COPO, Development)"
+    number: '15'
     number_of_expected_hacking_days: '4'
-    research_area_alignment: Tools Platform, Training Platform, Software Development
-      Best Practices WG
-    title: Designing a Software Management Plan as ELIXIR guidelines
+    research_area_alignment: "Data Platform\n Compute Platform - EOSC-Life\n Interoperability\
+      \ Platform - FAIRplus, Infradev-3\n ELIXIR-CONVERGE"
+    title: Data Management toolkit
   number: '9'
   submitter: Stuart Owen
   title: Data Management toolkit
