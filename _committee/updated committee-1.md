@@ -17,7 +17,7 @@ author: Ricardo
 | Susheel Varma              | ELIXIR-EBI  | Advisor    | 
 | Manuel Bernal Llinares     | ELIXIR-EBI  | Advisor    | 
 | Salvador Capella           | ELIXIR-ES   | Advisor    | 
-| Victoria Dominguez         | ELIXIR-FR   | Advisor    | 
+| Victoria Dominguez Del Angel         | ELIXIR-FR   | Advisor    | 
 | David Salgado              | ELIXIR-FR   | Advisor    | 
 | Dietlind Gerloff           | ELIXIR-LU   | Advisor    | 
 | Venkata Satagopam (TeC)    | ELIXIR-LU   | Advisor    | 
