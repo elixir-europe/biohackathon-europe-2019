@@ -924,7 +924,7 @@ project_list:
     title: Nightingale
   number: '32'
   submitter: Gustavo Salazar
-  title: Nightingale
+  title: Nightingale - Data visualization web components for the life sciences
 - link: https://github.com/elixir-europe/BioHackathon-projects-2019/tree/master/projects/33
   merged_from:
   - authors: Juan Caballero
