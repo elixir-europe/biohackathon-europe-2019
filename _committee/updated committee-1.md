@@ -5,8 +5,8 @@ author: Ricardo
 ---
 ## Programme
 
-**NAME**|**INSTITUTE**|**Responsibility**
-:-----|:-----:|-----:
+|**NAME**|**INSTITUTE**|**Responsibility**|
+|:-----|:-----:|-----:|
 | Jen Harrow                 | ELIXIR-HUB  | **Chair**  | 
 | Leyla Garcia               | ELIXIR-HUB  | **Vice chair** | 
 | Victoria Dominguez Del Angel         | ELIXIR-FR   | Local-Organiser  | 
