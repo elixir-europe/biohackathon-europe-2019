@@ -9,6 +9,8 @@ author: Ricardo
 :-----|:-----:|-----:
 | Jen Harrow                 | ELIXIR-HUB  | **Chair**  | 
 | Leyla Garcia               | ELIXIR-HUB  | **Vice chair** | 
+| Victoria Dominguez Del Angel         | ELIXIR-FR   | Local-Organiser  | 
+| David Salgado              | ELIXIR-FR   | Local-Organiser  | 
 | Dana Cernoskova            | Scientifika | Organiser  | 
 | Kathi Lauer                | ELIXIR-HUB  | Organiser  | 
 | Sirarat Sarntivijai        | ELIXIR-HUB  | Organiser  | 
@@ -17,8 +19,6 @@ author: Ricardo
 | Susheel Varma              | ELIXIR-EBI  | Advisor    | 
 | Manuel Bernal Llinares     | ELIXIR-EBI  | Advisor    | 
 | Salvador Capella           | ELIXIR-ES   | Advisor    | 
-| Victoria Dominguez Del Angel         | ELIXIR-FR   | Advisor    | 
-| David Salgado              | ELIXIR-FR   | Advisor    | 
 | Dietlind Gerloff           | ELIXIR-LU   | Advisor    | 
 | Venkata Satagopam (TeC)    | ELIXIR-LU   | Advisor    | 
 | Ricardo de Miranda Azevedo | ELIXIR-NL   | Advisor    | 
