@@ -8,13 +8,13 @@ author: Ricardo
 |**NAME**|**INSTITUTE**|**Responsibility**|
 |:---------------------|:----------------:|:----------|
 | Jen Harrow                 | ELIXIR-HUB  | **Chair**  | 
-| Leyla Garcia               | ELIXIR-HUB  | **Vice chair** | 
-| Victoria Dominguez Del Angel  | ELIXIR-FR   | Local-Organiser  | 
-| David Salgado              | ELIXIR-FR   | Local-Organiser  | 
+| Leyla Garcia               | ELIXIR-HUB - ZBMED | **Vice chair** | 
 | Dana Cernoskova            | Scientifika | Organiser  | 
 | Kathi Lauer                | ELIXIR-HUB  | Organiser  | 
 | Sirarat Sarntivijai        | ELIXIR-HUB  | Organiser  | 
 | Ricardo Arcila             | ELIXIR-EBI  | Organiser  | 
+| Victoria Dominguez Del Angel  | ELIXIR-FR   | Local Organiser  | 
+| David Salgado              | ELIXIR-FR   | Local Organiser  | 
 | Bjoern Gruening            | ELIXIR-DE   | Advisor    | 
 | Susheel Varma              | ELIXIR-EBI  | Advisor    | 
 | Manuel Bernal Llinares     | ELIXIR-EBI  | Advisor    | 
