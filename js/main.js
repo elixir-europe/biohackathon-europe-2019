@@ -77,6 +77,12 @@
 				visibleClass: 'is-menu-visible'
 			});
 
+		// var banner = document.getElementById('banner');
+
+		// banner.style.cursor = 'pointer';
+		// banner.onclick = function() {
+			
+		// };			
 		// Header.
 		if (skel.vars.IEVersion < 9)
 			$header.removeClass('alt');
