@@ -3,8 +3,8 @@ layout: landing
 ---
 {% assign latest_landing = site.landings | last %}
 <!-- Banner -->
-<section id="banner">
-	<div class="inner">
+<section id="banner" onclick="location.href='{{ site.baseurl }}/about.html'" style="cursor:pointer">
+	<!-- <div class="inner">
 		<div class="title">
 			<a href="{{ site.baseurl }}/index.html"><img src="images/logos/bhlogolightnotx.png" alt="biohackathon logo" /></a>
 			<h2>
@@ -13,45 +13,17 @@ layout: landing
 		</div>
 		<p>PARIS 2019 November 18th - 22th</p>
 		<h3><a href="https://twitter.com/hashtag/bh2019europe" target="_blank">#bh2019europe</a></h3>
-		<!-- <div class="logos-strip">
-			<ul class="logos major">
-				<li>
-					<div class="elixir-logo">
-						<span class="label">Lorem</span>
-					</div>
-				</li>
-				<li>
-					<div class="elixir-logo-france">
-						<span class="label">Lorem</span>
-					</div>
-				</li>
-				<li>
-					<div class="nbdc-logo">
-						<span class="label">Lorem</span>
-					</div>
-				</li>
-				<li>
-					<div class="dbcls-logo">
-						<span class="label">Lorem</span>
-					</div>
-				</li>
-				<li>
-					<div class="cost-logo">
-						<span class="label">Lorem</span>
-					</div>
-				</li>
-				<li>
-					<div class="pistoia-logo">
-						<span class="label">Lorem</span>
-					</div>
-				</li>					
-			</ul>
-		</div> -->
 		<ul class="actions">
 			<li>
 				<p></p>
 			</li>		
 		</ul>	
+	</div> -->
+	<div style="position: fixed; z-index: -99; width: 100%; height: 100%">
+		<iframe width="100%" height="100%" 
+		src="https://www.youtube.com/embed/RNIInb72-z0?autoplay=1&controls=0&showinfo=0&loop=1&mute=1&playlist=RNIInb72-z0" 
+			frameborder="0" 
+			allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</div>
 	<a href="#landing-background" class="more scrolly">Learn More</a>
 </section>
